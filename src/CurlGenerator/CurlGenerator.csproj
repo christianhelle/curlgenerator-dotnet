@@ -17,7 +17,7 @@
         <PackageReference Include="Microsoft.OpenApi.OData" Version="1.7.5" />
         <PackageReference Include="Microsoft.OpenApi.Readers" Version="1.6.28" />
         <PackageReference Include="Spectre.Console.Cli" Version="0.52.0" />
-        <PackageReference Include="Microsoft.SourceLink.GitHub" Version="10.0.203" PrivateAssets="All" />
+        <PackageReference Include="Microsoft.SourceLink.GitHub" Version="10.0.300" PrivateAssets="All" />
     </ItemGroup>
 
     <ItemGroup>
